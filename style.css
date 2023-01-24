@@ -1,0 +1,17 @@
+body {
+    background-color: rgb(255, 85, 85);
+}
+.playersInput {
+    background-color: brown;
+    width: 25%;
+    height: 100px;
+    margin-top: 10px;
+    padding-top: 5px;
+    border-radius: 25px;
+}
+#nextPage {
+    width: 10%;
+    height: 70px;
+    background-color: brown;
+    font-size: 30px;
+}
